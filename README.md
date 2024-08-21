@@ -10,7 +10,7 @@
   
   - 🌱 I’m currently learning **React, cybersecurity, Flask, and Node.js**
 
-  - 👯 I’m looking to collaborate on **Open source projects, Hackathons, Personal Projects**
+  - 👯 I’m looking to collaborate on **Open source projects, Hackathons and Personal Projects**
 
   - 🤝 I’m looking for help with **Frameworks**
 
@@ -18,7 +18,7 @@
 
   - 📫 How to reach me **winnymbinyamwanza@gmail.com**
 
-  - ⚡ Fun fact **I'm funny**
+  - ⚡ Fun fact: **I'm funny**
 </p>
 
 <p align="left">
