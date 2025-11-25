@@ -91,7 +91,7 @@ I'm a **Full-Stack Software Engineer** who builds systems that *work*, scale, an
 
 ---
 
-## 🧨 **Aesthetic Achievements (Cool Version)**
+## 🧨 **Aesthetic Achievements**
 
 <div align="center">
 <table>
