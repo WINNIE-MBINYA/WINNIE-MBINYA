@@ -81,16 +81,6 @@ I'm a **Full-Stack Software Engineer** who builds systems that *work*, scale, an
 
 ---
 
-## 📊 **My GitHub Stats**
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=winnie-mbinya&layout=compact" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=winnie-mbinya&show_icons=true" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=winnie-mbinya" height="160"/>
-</p>
-
----
-
 ## 🧨 **Aesthetic Achievements**
 
 <div align="center">
