@@ -1,6 +1,6 @@
-# Hi 👋, I'm Winnie Mbinya
+# 👋 Hey, I'm **Winnie Mbinya**
 
-### **Crafting Clean Code, Breaking Complex Systems — Byte by Byte**
+### **Engineer. Builder. Debugger. Architect of Organized Chaos.**
 
 <div align="center">
   <img src="https://i.pinimg.com/originals/cf/34/15/cf34151c9488a78dac827ad6d948e76d.gif" width="500"/>
@@ -8,51 +8,80 @@
 
 ---
 
-## 🚀 About Me
+## 🚀 **About Me**
 
-* 🌱 Currently leveling up in **React, Cybersecurity, Flask, and Node.js**
-* 🤝 Open to collaborating on **Open Source, Hackathons, and Technical Projects**
-* 💬 Ask me about **Python, JavaScript, C, Linux, and Backend engineering**
-* 🧩 I love solving complex problems and simplifying systems
-* 📫 Reach me at **[winnymbinyamwanza@gmail.com](mailto:winnymbinyamwanza@gmail.com)**
-* ⚡ Fun fact: **I debug like a detective and code like a magician** 🪄
+I'm a **Full-Stack Software Engineer** who builds systems that *work*, scale, and sometimes terrify me (in a good way). I spend my days crafting Spring Boot backends, automating DevOps pipelines, and writing documentation like my life depends on it.
 
----
-
-## 🌐 Socials
-
-<p>
-  <a href="https://twitter.com/_winniemwanza" target="_blank">Twitter</a> •
-  <a href="https://instagram.com/mbinyamwanza" target="_blank">Instagram</a>
-</p>
+* 🔭 Currently mastering **React, Cybersecurity, Flask, Node.js**
+* ⚙️ I build with **Java · Spring Boot · SQL · Microservices · Docker · Jenkins · Linux**
+* 🤝 I collaborate on **Hackathons · Open Source · High‑impact personal projects**
+* 🧠 Ask me about **APIs · Databases · DevOps · Architecture · Debugging**
+* 📬 Reach me: **[winnymbinyamwanza@gmail.com](mailto:winnymbinyamwanza@gmail.com)**
+* 😂 Fun fact: I'm funny when my code compiles.
 
 ---
 
-## 🔧 Languages & Tools
+## ✨ **My Engineering Identity**
 
-<div align="left">
+### I am...
+
+* 🧩 A **problem‑solver** who enjoys breaking complex systems and rebuilding them cleaner
+* 💻 A **backend engineer** who lives in Spring Boot and SQL
+* 🛠️ A **DevOps rookie‑turned‑wizard** automating builds with Jenkins & Docker
+* 📦 A **microservices geek** who loves clean architecture
+* 🐧 A **Linux enjoyer** (my laptop may disagree)
+* 📝 A **documentation nerd** because future‑me deserves kindness
+
+---
+
+## 🔥 **Tech Stack I Actually Use**
+
+### **Backend & Cloud**
+
+* Java · Spring Boot · Spring Security · WebClient · REST APIs
+* MySQL · PostgreSQL · MongoDB · Redis
+* Docker · Jenkins · GitHub Actions · Nginx
 
 ### **Frontend**
 
-* React · Redux · JavaScript · TypeScript · HTML5 · CSS3 · Vue
+* React · TypeScript · JavaScript · Angular (coming soon)
 
-### **Backend**
+### **Tools & Power‑Ups**
 
-* Node.js · Flask · Django · Express · PHP
-
-### **Databases**
-
-* MySQL · PostgreSQL · MongoDB · Redis
-
-### **DevOps & Tools**
-
-* Docker · Kubernetes · Jenkins · Git · Nginx · Linux · Vagrant
-
-</div>
+* Linux · Git · Swagger · Postman · Vagrant
+* Unit Testing · Integration Testing · CI/CD pipelines
 
 ---
 
-## 📊 GitHub Stats
+## 🏆 **Badges I Earned in Real Life**
+
+### *(not auto‑generated — actually what I do)*
+
+* 🏗️ Designed real **enterprise‑grade Spring Boot systems**
+* 🐳 **Containerized** apps with Docker & deployed them
+* 🔄 Built **CI/CD pipelines** using Jenkins
+* 🧪 Wrote **unit tests & integration tests** for backend modules
+* 📊 Created Metabase dashboards from multiple microservices
+* 🌍 Integrated microservices using **FeignClient, WebClient**
+* 🔐 Implemented **OTP login systems** using Cognito & Spring Security
+* 📁 Built file‑processing systems for **CSV, Excel, TXT** ingestion
+* 🧵 Documented entire flows for onboarding, reverse factoring & more
+
+---
+
+## 🧠 **What I Build Often**
+
+* Authentication systems (OTP, JWT, Cognito)
+* Microservice architectures
+* Pricing engines
+* Notification dispatchers (SMS · Email · Firebase)
+* Financial flows (reverse factoring · loan systems · group lending)
+* File processing & validation systems
+* RESTful APIs with versioning & swagger docs
+
+---
+
+## 📊 **My GitHub Stats**
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=winnie-mbinya&layout=compact" height="160"/>
@@ -62,27 +91,36 @@
 
 ---
 
-## 🏆 Achievements
+## 🧨 **Aesthetic Achievements (Cool Version)**
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=winnie-mbinya&theme=dracula&margin-w=10"/>
+<table>
+<tr>
+<td>🔥 Built real microservices</td>
+<td>🚀 Broke monoliths into cleaner systems</td>
+</tr>
+<tr>
+<td>⚙️ Automated builds with Jenkins</td>
+<td>📦 Deployed Dockerized apps</td>
+</tr>
+<tr>
+<td>🪄 Reduced complex logic into simple flows</td>
+<td>📚 Documented entire architectures</td>
+</tr>
+</table>
 </div>
 
 ---
 
-## ✨ Featured Quote
+## 🎯 **My Coding Philosophy**
 
-> *"A great programmer is not the one who knows every answer, but the one who knows how to find solutions."*
-
----
-
-## 🤖 What I Do
-
-* Build scalable backend systems
-* Explore DevOps automation
-* Break down complex monoliths
-* Mentor beginners in programming
+> *"Clean code is not written; it's repeatedly rewritten until it stops screaming."*
 
 ---
 
-Thanks for visiting! Feel free to ⭐ my repositories if you like my work.
+## 💬 Connect With Me
+
+* Twitter: @_winniemwanza
+* Instagram: @mbinyamwanza
+
+Thanks for visiting — ⭐ my repositories if you like my chaos‑turned‑code!
